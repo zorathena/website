@@ -1,0 +1,46 @@
+
+img{
+    margin-left: 7px ;width: 400px; 
+
+}
+
+.carousel-item{
+    width: 400px;
+}
+
+.carousel-control-next-icon{
+    width: 20px;
+}
+
+.carousel-control-prev-icon{
+    width: 20px;position: absolute;
+}
+
+
+body{
+    background-color: rgb(52, 52, 47);
+    font-family: 'Silkscreen', cursive;
+    color: burlywood
+}
+
+#titel1 {
+    margin-left: 7px;
+    color: burlywood;
+    text-decoration: underline;position: sticky"https://cdn.discordapp.com/attachments/926551101086523432/1028446388037619712/unknown.png";
+    font-weight:bolder;
+}
+
+#titel2 {
+   
+    text-decoration: underline;
+}
+
+.smalltext {
+   
+    text-decoration: wavy;
+}
+#redbutton {
+    width: 100px;border-style: none;
+}
+
+#playbutton {width: 30px;border-style: none;}
